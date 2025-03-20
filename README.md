@@ -1,1 +1,1 @@
-This case study was the chosen topic for my Google Data Analytics capstone project. I chose this scenario as it aligned with my interests in health and fitness. This is my first case study using R.
+This is the beginning to my portfolio projects. I will be updating this repo as I complete more case studies in my free time to showcase my skills in different languages and programs. I will be using R, SQL, Excel, and Tableau in these projects. 
